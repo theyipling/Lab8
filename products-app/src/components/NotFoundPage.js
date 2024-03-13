@@ -3,7 +3,7 @@ Name: NotFoundPage.js
 Assignment: Lab 8, Exercise C
 Author(s): Sarah Yip, Stephenie Oboh
 Submission: March 13, 2024
-Description: Page is a page is not found on products app
+Description: Page if a page is not found on products app
 */
 
 import React from 'react';
