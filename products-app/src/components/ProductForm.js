@@ -1,3 +1,11 @@
+/*
+Name: ProductForm.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: to edit or add a product 
+*/
+
 import React, { useState, useEffect } from 'react';
 import { addProduct, editProduct, getProductDetails } from '../services/apiService';
 import { useProductsContext } from '../context/ProductsContext';

@@ -1,3 +1,11 @@
+/*
+Name: DeleteButton.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: button for deleting a product 
+*/
+
 import React, { useState } from 'react';
 import { removeProduct } from '../services/apiService';
 import ConfirmModal from './ConfirmModal';

@@ -1,3 +1,11 @@
+/*
+Name: app.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: function of the app
+*/
+
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { ProductsProvider } from './context/ProductsContext'; // Adjust the import path as necessary

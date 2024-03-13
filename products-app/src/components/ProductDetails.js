@@ -1,3 +1,11 @@
+/*
+Name: ProductDetails.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: shows details of a selected product 
+*/
+
 import React, { useState, useEffect } from 'react';
 import DeleteButton from './DeleteButton'; 
 import { getProductDetails } from '../services/apiService';

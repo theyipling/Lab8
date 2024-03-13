@@ -1,3 +1,11 @@
+/*
+Name: ProductList.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: list of products, can navigate to details upon click
+*/
+
 // src/components/ProductList.js
 import React, { useEffect, useState } from 'react';
 import { fetchProducts } from '../services/apiService';

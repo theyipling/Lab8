@@ -1,3 +1,11 @@
+/*
+Name: ConfirmModal.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: confirmation for deleting a product 
+*/
+
 import React from 'react';
 
 const ConfirmModal = ({ show, onClose, onConfirm, title, children }) => {
